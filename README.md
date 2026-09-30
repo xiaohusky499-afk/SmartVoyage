@@ -8,7 +8,7 @@ SmartVoyage 是一个基于 **Vue 3、FastAPI、A2A 和远程 MCP** 的多智能
 
 ![SmartVoyage 旅行对话页面](docs/frontend-preview.png)
 
-页面包含旅行对话、行程规划、偏好设置和智能体状态区域。GitHub 打开本 README 后可直接查看页面效果。
+页面包含旅行对话、行程规划、偏好设置和智能体状态区域。
 
 ## 主要功能
 
