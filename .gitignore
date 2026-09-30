@@ -1,0 +1,25 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+.env
+.env.*
+!.env.example
+
+# Vue frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.npm-cache/
+
+# Local runtime data
+SmartVoyage/docker/volumes/
+SmartVoyage/logs/
+
+# Local agent instructions
+AGENTS.md
